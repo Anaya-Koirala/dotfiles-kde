@@ -1,1 +1,1 @@
-![SCREENSHOT](https://github.com/Anaya-Koirala/dotfiles-kde/blob/8816bfd2fefd29fdeeaf78e23b5ad3701536a6b8/Screenshot_20240717_125844.png)
+![SCREENSHOT](https://github.com/Anaya-Koirala/dotfiles-kde/blob/3be6ff5971fe5df2aeff2b34359ea1be137f11c2/Screenshot_20240717_152345.png)
