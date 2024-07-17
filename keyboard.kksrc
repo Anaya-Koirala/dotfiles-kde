@@ -58,7 +58,7 @@ Open=Ctrl+O
 OpenContextMenu=
 OpenMainMenu=
 OpenRecent=
-Paste=Shift+Ins; Ctrl+V
+Paste=Ctrl+V; Shift+Ins
 Paste Selection=Ctrl+Shift+Ins
 Preferences=
 PrevCompletion=Ctrl+Up
@@ -67,7 +67,7 @@ PrintPreview=
 Prior=PgUp
 Quit=
 Redo=Ctrl+Shift+Z
-Reload=Refresh; F5
+Reload=F5; Refresh
 RenameFile=F2
 Replace=Ctrl+R
 ReportBug=
@@ -91,6 +91,11 @@ WhatsThis=
 Zoom=
 ZoomIn=
 ZoomOut=
+
+[chromium.desktop][Global Shortcuts]
+_launch=Meta+Shift+W
+new-private-window=
+new-window=
 
 [emacsclient.desktop][Global Shortcuts]
 _launch=Meta+E
@@ -277,10 +282,10 @@ Window to Next Desktop=
 Window to Next Screen=
 Window to Previous Desktop=
 Window to Previous Screen=
-Window to Screen 0=
-Window to Screen 1=
-Window to Screen 2=
-Window to Screen 3=
+Window to Screen 0=Meta+Alt+0
+Window to Screen 1=Meta+Alt+1
+Window to Screen 2=Meta+Alt+2
+Window to Screen 3=Meta+Alt+3
 Window to Screen 4=
 Window to Screen 5=
 Window to Screen 6=
@@ -373,14 +378,14 @@ _launch=Meta+Alt+Del
 _launch=Meta+Ctrl+Alt+Shift+Space; Meta+.
 
 [org.kde.spectacle.desktop][Global Shortcuts]
-ActiveWindowScreenShot=Meta+P
-CurrentMonitorScreenShot=
+ActiveWindowScreenShot=Meta+Alt+P
+CurrentMonitorScreenShot=Meta+Shift+P
 FullScreenScreenShot=
 OpenWithoutScreenshot=
 RecordRegion=
 RecordScreen=
 RecordWindow=
-RectangularRegionScreenShot=Meta+Shift+P
+RectangularRegionScreenShot=Meta+P
 WindowUnderCursorScreenShot=
 _launch=
 
