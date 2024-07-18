@@ -1,0 +1,13 @@
+[General]
+history=
+
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+baloosearchEnabled=false
+bookmarksEnabled=false
+browserhistoryEnabled=false
+browsertabsEnabled=false
+locationsEnabled=false
+recentdocumentsEnabled=false

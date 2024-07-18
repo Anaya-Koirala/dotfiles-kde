@@ -1,0 +1,16 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[General]
+count=1
+rules=ffacd55a-05b9-4227-bdbe-243b3e544b9e
+
+[ffacd55a-05b9-4227-bdbe-243b3e544b9e]
+Description=Window settings for Emacs
+clientmachine=localhost
+strictgeometryrule=2
+title=*scratch* - GNU Emacs at anayapc
+types=1
+wmclass=emacs Emacs
+wmclasscomplete=true
+wmclassmatch=1

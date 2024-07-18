@@ -1,0 +1,13 @@
+[FileDialogSize]
+2 screens: Height=540
+2 screens: Width=864
+
+[MainWindow]
+2 screens: Height=773
+2 screens: Width=1128
+2 screens: XPosition=2218
+2 screens: YPosition=84
+DisplayPort-0 eDP=DisplayPort-0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABGgAAAMFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
