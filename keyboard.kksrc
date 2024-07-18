@@ -58,7 +58,7 @@ Open=Ctrl+O
 OpenContextMenu=
 OpenMainMenu=
 OpenRecent=
-Paste=Ctrl+V; Shift+Ins
+Paste=Shift+Ins; Ctrl+V
 Paste Selection=Ctrl+Shift+Ins
 Preferences=
 PrevCompletion=Ctrl+Up
@@ -375,7 +375,7 @@ ShowOSD=Display
 _launch=Meta+Alt+Del
 
 [org.kde.plasma.emojier.desktop][Global Shortcuts]
-_launch=Meta+Ctrl+Alt+Shift+Space; Meta+.
+_launch=Meta+.; Meta+Ctrl+Alt+Shift+Space
 
 [org.kde.spectacle.desktop][Global Shortcuts]
 ActiveWindowScreenShot=Meta+Alt+P
@@ -402,7 +402,7 @@ PowerOff=Power Off
 Sleep=Sleep
 Toggle Keyboard Backlight=Keyboard Light On/Off
 Turn Off Screen=
-powerProfile=Battery; Meta+B
+powerProfile=Meta+B; Battery
 
 [plasmashell][Global Shortcuts]
 activate application launcher=Meta+Shift+D
@@ -418,7 +418,7 @@ activate task manager entry 8=
 activate task manager entry 9=
 activate widget 180=
 activate widget 20=
-activate widget 207=
+activate widget 207=Meta+N
 activate widget 214=
 activate widget 224=
 activate widget 40=
@@ -440,6 +440,9 @@ stop current activity=
 switch to next activity=
 switch to previous activity=
 toggle do not disturb=
+
+[ranger.desktop][Global Shortcuts]
+_launch=Meta+R
 
 [systemsettings.desktop][Global Shortcuts]
 _launch=Tools
