@@ -1,9 +1,0 @@
-[$Version]
-update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
-
-[ImageSave]
-lastImageSaveLocation=file:///home/artix/Pictures/Screenshots/Screenshot_20240717_152345.png
-translatedScreenshotsFolder=Screenshots
-
-[VideoSave]
-translatedScreencastsFolder=Screencasts
