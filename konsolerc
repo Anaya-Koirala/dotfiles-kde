@@ -1,5 +1,3 @@
-MenuBar=Disabled
-
 [Desktop Entry]
 DefaultProfile=Default.profile
 
@@ -11,7 +9,10 @@ scrollbackUseSystemLocation=false
 ConfigVersion=1
 
 [KonsoleWindow]
+AllowMenuAccelerators=true
 RememberWindowSize=false
+ShowWindowTitleOnTitleBar=true
+UseSingleInstance=true
 
 [MainWindow]
 2 screens: Height=628
@@ -19,7 +20,7 @@ RememberWindowSize=false
 2 screens: XPosition=2397
 2 screens: YPosition=266
 DisplayPort-0 eDP=DisplayPort-0
-ToolBarsMovable=Disabled
+MenuBar=Disabled
 
 [Notification Messages]
 CloseAllTabs=true
